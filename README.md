@@ -1,6 +1,6 @@
 # honeyqa-DB-Architecture
 
-#ERD 다이어그램
+#ERD 다이어그램(도메인 모델링)
 
 1. 현재 데이터 타입은 정의되어 있지 않지만, 상당 부분 json 타입으로 정의 될 예정입니다.
 2. tag, event_path 등 레코드가 다수인 필드의 경우 array로 저장한다고 생각하고 봐주시면 됩니다.
