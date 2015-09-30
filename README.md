@@ -7,7 +7,7 @@
 3. 필터 부분은 레디스로 처리할 예정이며 현재 설계중에 있습니다. 마무리 되는대로 올릴게요.
 4. 통계 역시 레디스로 처리 가능한 부분이라고 생각하여 현재 erd에서는 제외하였습니다 ㅎㅎ
 
-![erd](https://lh3.googleusercontent.com/O-dH6YRbpLPntANGe7OeD63Rt6EzpIWKZDsbQBB8wz1UqppDs2sbLFYhvuUEgPeSOYNX0xVd718juMo=w2434-h1036-rw)
+![erd](https://github.com/honeyqa/honeyqa-DB-Architecture/blob/master/erd.png?raw=true)
 
 ##Server Architecture
 
