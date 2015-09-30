@@ -7,7 +7,7 @@
 3. 필터 부분은 레디스로 처리할 예정이며 현재 설계중에 있습니다. 마무리 되는대로 올릴게요.
 4. 통계 역시 레디스로 처리 가능한 부분이라고 생각하여 현재 erd에서는 제외하였습니다 ㅎㅎ
 
-![erd](https://lh3.googleusercontent.com/sK-diFGvg7M4RdEPi8gqgQ1DcQbLCV1-jro2BQ3x1GhScz0Rp7Rt1qvp0k4BHMUcDtT9n1Kndgz9yLk=w2512-h1170-rw)
+![erd](https://lh3.googleusercontent.com/O-dH6YRbpLPntANGe7OeD63Rt6EzpIWKZDsbQBB8wz1UqppDs2sbLFYhvuUEgPeSOYNX0xVd718juMo=w2434-h1036-rw)
 
 ##Server Architecture
 
