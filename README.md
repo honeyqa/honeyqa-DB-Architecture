@@ -11,4 +11,4 @@
 
 ##Server Architecture
 
-![sa](https://lh4.googleusercontent.com/6Lve0nURfQnAofUdgneGTFHI7Lv_Ep6wzCLBkyejIogzEaY9k2SeRwqA409ET7z3UcWAgSMhD59SCis=w2434-h1036-rw)
+![sa](https://github.com/honeyqa/honeyqa-DB-Architecture/blob/master/architecture.png?raw=true)
